@@ -2,11 +2,10 @@
 
 1. Output explanation of program to user.
 2. set initial balance to 1000
-3. create loop while true: 
 3. create variable "choice", set it to "t"
-4. If choice == "e":
-   5. Break loop, end program.
-2. Prompt user to either view balance, deposit, withdraw, or exit.
+4. Set sentinel to "e"
+5. while choice is not equal to sentinel: 
+   2. Prompt user to either view balance, deposit, withdraw, or exit.
    3. If user enters "view balance":
       4. Output current balance 
       5. If balance is < 0:
