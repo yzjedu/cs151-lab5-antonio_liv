@@ -1,4 +1,8 @@
-# Read the README.md
-# Read it again
-# Your code here
-# Delete these 4 lines of comments
+# Programmers:
+# Course:  CS151, Dr. Zelalem Jembre Yalew
+# Due Date: 10//24
+# Lab Assignment: 5
+# Problem Statement:
+# Data In:
+# Data Out:
+# Credits:In class
