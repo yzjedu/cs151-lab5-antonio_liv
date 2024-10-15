@@ -20,6 +20,6 @@
       9. if user enters negative number for number of money withdrawn or invalid character:
          7. output "Invalid. Please enter positive value."
       9. Subtract number of withdrawn money to balance.
-   10. Prompt user to either view balance, deposit, withdraw, or exit. 
-   11. If user enters "e":
+   11. Otherwise-If user enters "e":
        12. set choice to "e" 
+13. Program ends
