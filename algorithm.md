@@ -6,6 +6,8 @@
 4. Set sentinel to "e"
 5. while choice is not equal to sentinel: 
    2. Prompt user to either view balance, deposit, withdraw, or exit.
+   3. while user input not in view, balance, deposit, withdraw or exit
+      4. output prompt asking user to enter valid input
    3. If user enters "view balance":
       4. Output current balance 
       5. If balance is < 0:
