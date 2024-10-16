@@ -32,6 +32,6 @@
   * Do you think you learned what you were supposed to learn for this lab? 
     * I definitely think I learned what I was supposed to for this lab and I really enjoyed doing it too. 
   * What was it like working with your partner?
-    * I think Antonio and I worked great together. I enjoyed working with him alot and we were both able to help each other with different things. We also split up the work evenly, I did the code and the flowchart and Antonio wrote the algorithm and the testcases. 
+    * I think Antonio and I worked great together. I enjoyed working with him alot and we were both able to help each other with different things. We also split up the work evenly, I did the code and the flowchart and Antonio wrote the algorithm and the testcases and revised the code to make it better. 
 
 
